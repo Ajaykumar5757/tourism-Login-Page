@@ -1,0 +1,94 @@
+.col-6 img{
+    height: 700px;
+    width: 90%;
+    margin-top:10px;
+    margin-left: 80px;
+}
+
+label,input,.btn1,.no{
+    display:block;
+}
+
+/* .col-6 .first{
+    background-image: url(../images/picture1.png);
+} */
+
+.col-6{
+    background-color: aliceblue;
+}
+
+.second h1{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(28, 161, 218);
+    font-size: 60px;
+}
+
+.second h4{
+    text-align: center;
+    color:rgb(194, 190, 190);
+    margin-bottom: 30px;
+}
+
+label{
+    padding: 10px 0px;
+}
+
+form{
+    padding: 10px 210px;
+    display:block;
+}
+
+input{
+    width:100%;
+    padding: 7px;
+    border-radius: 6px;
+    border: 2px solid rgb(28, 161, 218);
+}
+
+#forget-pwd{
+    float:right;
+}
+
+.btn1{
+    margin-top: 50px;
+    margin-left: 120px;
+    background-color: rgb(28, 161, 218);
+    color:white;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px 20px; 
+}
+
+.row h3{
+    text-align: center;
+    margin: 10px 5px 0px;
+}
+
+.btn2,.btn3,.btn4{
+    padding: 15px 30px;
+    /* color:rgb(94, 157, 180); */
+    border-style: none;
+    background-color: rgb(155, 212, 233) ;
+    border-radius: 6px;
+    margin: 2px 10px;
+}
+
+.btn2{
+    margin-left: 20px;
+}
+
+.mail,.pwd{
+    color: rgb(28, 161, 218);
+    margin-left: 20px;
+}
+
+.aa{
+    color: black;
+    text-decoration: none;
+}
+
+.no{
+    margin-left: 30px;
+    margin-top: 10px;
+}
